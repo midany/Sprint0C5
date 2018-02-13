@@ -1,5 +1,5 @@
 # Sprint0C5
-- Sprint 0 tatatatatatatatata
+- Sprint 0 
 - Group's task
 - Ahmed El Midany, 37-4940
 Sarah Khaled, 37-6662
