@@ -1,9 +1,5 @@
 # Sprint0C5
-
-
-- 
-
-- Sprint 0
+- Sprint 0 test
 - Group's task
 
 
