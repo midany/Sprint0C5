@@ -1,8 +1,4 @@
 # Sprint0C5
-
-
-- 
-
 - Sprint 0
 - Group's task
 
